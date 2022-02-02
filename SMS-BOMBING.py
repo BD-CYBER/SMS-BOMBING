@@ -66,8 +66,7 @@ line2=("\t\t~~~~~~~~~~~~~~~~~~~~~~~~")
  
 dtls=(yellow+"\t\t Created By: A R MaMuN ")
 
-note=(cyan+"Note: Just for fun🤪 
-Please don't use anyone for bad Work..! ")
+note=(cyan+"Note: Just for fun, Please don't use anyone for bad Work..! ")
 
 print(logo)
 
